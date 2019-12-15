@@ -65,17 +65,17 @@ primary key (id);
 同时 MySql 默认基于主码建立索引的因此综上每个表都设计为主码聚集
 
 # 运行界面
-![运行界面](https://github.com/liuqian2333/-_-/blob/master/%E6%88%AA%E5%9B%BE/1.PNG)
+![运行界面](https://github.com/liuqian2333/rongyang-/blob/master/%E6%88%AA%E5%9B%BE/1.PNG)
 
 + 登录
-![登录](https://github.com/liuqian2333/-_-/blob/master/%E6%88%AA%E5%9B%BE/2.PNG)
+![登录](https://github.com/liuqian2333/rongyang-/blob/master/%E6%88%AA%E5%9B%BE/2.PNG)
 + 管理奖惩情况
-![管理奖惩](https://github.com/liuqian2333/-_-/blob/master/%E6%88%AA%E5%9B%BE/4.PNG)
-![人事变动](https://github.com/liuqian2333/-_-/blob/master/%E6%88%AA%E5%9B%BE/5.PNG)
+![管理奖惩](https://github.com/liuqian2333/rongyang-/blob/master/%E6%88%AA%E5%9B%BE/4.PNG)
+![人事变动](https://github.com/liuqian2333/rongyang-/blob/master/%E6%88%AA%E5%9B%BE/5.PNG)
 
 
 + 登录成功后可以管理员工的基础信息
-![](https://github.com/liuqian2333/-_-/blob/master/%E6%88%AA%E5%9B%BE/3.PNG)
+![](https://github.com/liuqian2333/rongyang-/blob/master/%E6%88%AA%E5%9B%BE/3.PNG)
 
 # 总结
 + xaml虽然不是新的技术，但是在windows的前端设计还是比较方便的，模块“考勤出差加班管理”和“员工培训”的模块没有实现，暂时空着，另外我认为现阶段的界面制作是比较粗糙的还应改进一下,另外因为数据库是本地的没有搭建云数据库，因此还不能在其他的设备运行
